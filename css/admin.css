@@ -1,0 +1,20 @@
+.adminLayout{
+    width: 200px;
+}
+
+.row{
+    margin: 40px 0;
+}
+.panel{
+    margin-bottom: 0;
+}
+#invetoryChart{
+    width:100%;
+    max-width: 900px;
+    margin: auto;
+}
+textarea{
+    resize:none; 
+    width:100%;
+    max-width: 200px;
+}
